@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-          <div> Hellow React 1 </div>
+          <div> Hellow React 21 </div>
       </header>
     </div>
   );
